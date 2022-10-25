@@ -23,7 +23,7 @@ Kod zagnieżdżony w tekście: 'print("Pozdrawiam. Miłego wieczoru")'
 '''
 l = 0
 while True:
-	l = l + 1'
+	l = l + 1
 '''
 
 
