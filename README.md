@@ -21,6 +21,7 @@ Mogę wyróżnić *trylogię Grishy* i ***Pozłacane Wilki***.
 Kod zagnieżdżony w tekście: 'print("Pozdrawiam. Miłego wieczoru")'
 		
 '''
+
 l = 0
 while True:
 	l = l + 1
