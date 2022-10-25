@@ -1,4 +1,4 @@
-## Ksiazki do przeczytania
+## Ksiazki do przeczytania {#identyfikator}
 
 Mam **ciągnącą się** listę książek i nie starczy mi życia, by ją przeczytać.
 
@@ -23,3 +23,4 @@ l = 0
 while True:
 	l = l + 1
 	
+[^Link] (#identyfikator)
