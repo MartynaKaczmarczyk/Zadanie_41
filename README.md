@@ -9,10 +9,10 @@ Czas za *szybko* ***płynie***.
 >Niezależnie od tego, jak złe wydawało ci się dotychczasowe życie, przygotuj się.
 >>Będzie gorzej.
 
- 1. Król z bliznami
-	 2. Pani Noc
-		 3. Władca Pierścienia
-			 4. Rytm Wojny
+ 1.Król z bliznami
+	 2.Pani Noc
+		 3.Władca Pierścienia
+			 4.Rytm Wojny
 
 - Leigh Bardugo
 	- Clarissa Clare
