@@ -1,13 +1,13 @@
-## Ksiazki do przeczytania 
+## Hello World 
 
-Mam **ciągnącą się** listę książek i nie starczy mi życia, by ją przeczytać.
+Ten weekend był zdecydowanie **za krótki**.
 
-Mogę wyróżnić *trylogię Grishy* i ***Pozłacane Wilki***.
+Czas za *szybko* ***płynie***.
 
-~Została mi także jedna książka Leigh Bardugo.~
+~Lubię prokrastynować~
 
->Żadnych żałobników.
->>Żadnych pogrzebów.
+>Niezależnie od tego, jak złe wydawało ci się dotychczasowe życie, przygotuj się.
+>>Będzie gorzej.
 
  1. Król z bliznami
 	 2. Pani Noc
@@ -17,8 +17,8 @@ Mogę wyróżnić *trylogię Grishy* i ***Pozłacane Wilki***.
 - Leigh Bardugo
 	- Clarissa Clare
 		- Tolkien
-		- Brandon Sanderson
-Kod zagnieżdżony w tekście: 'print("Pozdrawiam. Miłego wieczoru")'
+			- Brandon Sanderson
+Kod zagnieżdżony w tekście:'print("Pozdrawiam. Miłego wieczoru")'
 		
 '''
 
