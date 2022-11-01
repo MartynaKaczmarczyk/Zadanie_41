@@ -34,9 +34,10 @@ Czas za *szybko* ***płynie***.
 Kod zagnieżdżony w tekście:'print("Pozdrawiam. Miłego wieczoru")'
 		
 '''
-l = 0
+a = 0
 while True:
-	l = l + 1
+	a += 1
+	print("Hello", a)
 '''
 
 
