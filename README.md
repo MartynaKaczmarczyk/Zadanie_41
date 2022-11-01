@@ -22,14 +22,14 @@
 8. **piątek**
 
 - egzamin CISCO:
-	- 6 modułów
-	- egzamin końcowy
+	- *6 modułów*
+	- *egzamin końcowy*
 - kolokwium z programowania
 - kolokwia z warsztatu:
-	- kolokwium z linuxa
-	- kolokwium z basha
+	- *kolokwium z linuxa*
+	- *kolokwium z basha*
 - kolokwia z baz danych:
-	- egzamin kończący wykłady
+	- *egzamin kończący wykłady*
 	- ~kolokwium z tworzenia tabelek~
 
 
