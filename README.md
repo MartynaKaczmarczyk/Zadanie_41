@@ -28,6 +28,9 @@
 - kolokwia z warsztatu:
 	- kolokwium z linuxa
 	- kolokwium z basha
+- kolokwia z baz danych:
+	- egzamin kończący wykłady
+	- ~kolokwium z tworzenia tabelek~
 
 
 Kod zagnieżdżony w tekście: `print("Pozdrawiam")`
