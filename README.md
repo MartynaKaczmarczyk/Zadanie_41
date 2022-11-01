@@ -44,3 +44,4 @@ while True:
 
 >To znowu **te** *ziemniaki*.
 
+ziemniaki.jpg
