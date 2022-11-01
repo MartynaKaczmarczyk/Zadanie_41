@@ -42,5 +42,5 @@ while True:
 	print("Hello", a)
 ~~~
 
->>To znowu **te** *ziemniaki*.
+>To znowu **te** *ziemniaki*.
 
