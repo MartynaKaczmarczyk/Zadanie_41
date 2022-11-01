@@ -29,7 +29,8 @@ Czas za *szybko* ***płynie***.
 - kolokwia z warsztatu:
 	- kolokwium z linuxa
 	- kolokwium z basha
-- 
+
+
 Kod zagnieżdżony w tekście:'print("Pozdrawiam. Miłego wieczoru")'
 		
 '''
