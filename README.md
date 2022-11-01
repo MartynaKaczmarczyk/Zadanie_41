@@ -2,8 +2,7 @@
 
 >Niezależnie od tego, jak złe wydawało ci się dotychczasowe życie, przygotuj się.
 >>Będzie gorzej.
-
-                                       *Brandon Sanderson*
+<<<<<Brandon Sanderson
 
 Ten weekend był zdecydowanie **za krótki**.
 
