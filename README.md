@@ -6,7 +6,7 @@
 
 ***Brandon Sanderson***.
 
-~Nie lubię prokrastynować~
+
 
 1. **Poniedziałek**
 	1. j.angelski
