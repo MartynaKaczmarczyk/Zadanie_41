@@ -31,7 +31,7 @@ Czas za *szybko* ***płynie***.
 	- kolokwium z basha
 
 
-Kod zagnieżdżony w tekście: `print("Pozdrawiam. Miłego wieczoru")`
+Kod zagnieżdżony w tekście: `print("Pozdrawiam")`
 		
 ~~~
 a = 0
