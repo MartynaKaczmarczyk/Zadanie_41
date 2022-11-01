@@ -8,18 +8,18 @@
 
 ~Nie lubię prokrastynować~
 
-1. Poniedziałek
+1. **Poniedziałek**
 	1. j.angelski
-2. Wtorek
+2. **Wtorek**
 	1. Bazy danych
 	2. Sieci komputerowe
 	3. matematyka elemntarna
 	4. warsztat programisty
-5. Środa
+5. **Środa**
 	1. matematyka dyskretna
 	2. wstęp do programowania
-7. czwartek
-8. piątek
+7. **czwartek**
+8. **piątek**
 
 - egzamin CISCO:
 	- 6 modułów
@@ -42,5 +42,5 @@ while True:
 	print("Hello", a)
 ~~~
 
-To znowu **te** *ziemniaki*.
+>>To znowu **te** *ziemniaki*.
 
