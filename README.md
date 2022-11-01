@@ -43,5 +43,7 @@ while True:
 ~~~
 
 >To znowu **te** *ziemniaki*.
+
+
 ![ziemniaki](https://user-images.githubusercontent.com/116656874/199265240-73aeab10-912c-436c-b1de-d6a7dbafeea6.jpg)
 
