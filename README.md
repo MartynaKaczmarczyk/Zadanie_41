@@ -4,11 +4,9 @@
 >>Będzie gorzej.
 
 
-Ten weekend był zdecydowanie **za krótki**.
+***Brandon Sanderson***.
 
-Czas za *szybko* ***płynie***.
-
-~Lubię prokrastynować~
+~Nie lubię prokrastynować~
 
 1. Poniedziałek
 	1. j.angelski
@@ -25,6 +23,7 @@ Czas za *szybko* ***płynie***.
 
 - egzamin CISCO:
 	- 6 modułów
+	- egzamin końcowy
 - kolokwium z programowania
 - kolokwia z warsztatu:
 	- kolokwium z linuxa
@@ -40,4 +39,5 @@ while True:
 	print("Hello", a)
 ~~~
 
+To znowu **te** *ziemniaki*.
 
