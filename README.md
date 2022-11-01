@@ -33,11 +33,11 @@ Czas za *szybko* ***płynie***.
 
 Kod zagnieżdżony w tekście: ''print("Pozdrawiam. Miłego wieczoru")''
 		
-"""
+~~~
 a = 0
 while True:
 	a += 1
 	print("Hello", a)
-"""
+~~~
 
 
